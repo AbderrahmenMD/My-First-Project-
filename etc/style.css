@@ -1,0 +1,231 @@
+
+body, h1, p, img {
+    background-image: URL('https://media.discordapp.net/attachments/1047924520062812231/1053073394498797658/bg1.jpg?ex=65a06906&is=658df406&hm=0266cb0d9acc254fed106b2b8e34d90c36cb8f489b19318399d69fb9571652c4&=&format=webp&width=1066&height=562');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed; 
+    font-family: Arial, sans-serif; 
+  
+    margin: 0;
+    padding: 0;
+  
+  
+  .image-with-text {
+    display: flex;
+    
+  }
+  
+  .image-with-text img {
+    max-width: 50%; 
+    height: 250px;
+  }
+  
+  .text-container {
+    flex: 1;
+    text-align: left;
+    padding-left: 20px; 
+  }
+  
+  .text-container p {
+    margin: 25px;
+    font-family: Rubik Glitch;
+    font-size: 35px;
+    color: #f8f3f3;
+    
+  }
+
+
+
+/*facebook*/
+
+  .icon-linkf {
+    display: inline-block;
+    text-decoration: none;
+    color: #333; 
+    border-radius: 50%; 
+    width: 60px;
+    height: 60px; 
+    line-height: 60px;
+    text-align: center; 
+    background-color: #ccc;
+    margin: 10px; 
+  }
+  
+  .icon-linkf:hover {
+    background-color: #1c10bd; 
+    color: #fff; 
+  }
+  
+  .icon-link i {
+    font-size: 30px; 
+  }
+
+
+
+  /*instagram*/
+  .icon-linki {
+    display: inline-block;
+    text-decoration: none;
+    color: #333; 
+    border-radius: 50%; 
+    width: 60px;
+    height: 60px; 
+    line-height: 60px;
+    text-align: center; 
+    background-color: #ccc;
+    margin: 10px; 
+  }
+  
+  .icon-linki:hover {
+    background-color: #b30c81; 
+    color: #fff; 
+  }
+  
+  .icon-link i {
+    font-size: 30px; 
+  }
+
+
+/*linkeden*/
+
+  .icon-linkIN {
+    display: inline-block;
+    text-decoration: none;
+    color: #333; 
+    border-radius: 50%; 
+    width: 60px;
+    height: 60px; 
+    line-height: 60px;
+    text-align: center; 
+    background-color: #ccc;
+    margin: 10px; 
+  }
+  
+  .icon-linkIN:hover {
+    background-color: #0e7dcd; 
+    color: #fff; 
+  }
+  
+  .icon-link i {
+    font-size: 30px; 
+  }
+
+
+/*links*/
+
+  .icon-linkl {
+    display: inline-block;
+    text-decoration: none;
+    color: #333; 
+    border-radius: 50%; 
+    width: 60px;
+    height: 60px; 
+    line-height: 60px;
+    text-align: center; 
+    background-color: #ccc;
+    margin: 10px; 
+  }
+  
+  .icon-linkl:hover {
+    background-color: #19be1e; 
+    color: #fff; 
+  }
+  
+  .icon-link i {
+    font-size: 30px; 
+  }
+
+/*x-twiter*/
+
+  .icon-linkx {
+    display: inline-block;
+    text-decoration: none;
+    color: #333; 
+    border-radius: 50%; 
+    width: 60px;
+    height: 60px; 
+    line-height: 60px;
+    text-align: center; 
+    background-color: #ccc;
+    margin: 10px; 
+    
+  }
+  
+  .icon-linkx:hover {
+    background-color: #0d110e; 
+    color: #fff; 
+  }
+  
+  .icon-link i {
+    font-size: 30px; 
+  }
+
+
+
+
+/*discord*/
+
+  .icon-linkd {
+    display: inline-block;
+    text-decoration: none;
+    color: #333; 
+    border-radius: 50%; 
+    width: 60px;
+    height: 60px; 
+    line-height: 60px;
+    text-align: center; 
+    background-color: #ccc;
+    margin: 10px; 
+  }
+  
+  .icon-linkd:hover {
+    background-color: #a213da; 
+    color: #fff; 
+  }
+  
+  .icon-link i {
+    font-size: 30px; 
+  }
+  .icon2{
+    text-align: center;
+    margin-top: 100px; 
+
+
+  }
+  
+
+  
+  .location {
+    display: flex;
+    text-align: right; 
+    
+    align-items: center;
+    margin-top: 20px;
+    color: #fff;
+}
+
+
+.location a {
+    display: flex;
+    align-items: center;
+    text-align: right; 
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.location i {
+    font-size: 30px;
+    margin-right: 5px;
+    text-align: right;
+    color: #fff; 
+}
+
+
+.location p {
+    font-size: 18px;
+    text-align: right; 
+    color: #fff; 
+    margin: 0; 
+}
+}
